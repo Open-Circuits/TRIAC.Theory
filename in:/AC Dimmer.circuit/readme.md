@@ -1,0 +1,1 @@
+- [TRIAC AC Dimmer Circuit - How to dim AC Power for Motors and More](https://youtu.be/jS9ANqJf-ZY)
